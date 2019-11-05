@@ -1,2 +1,3 @@
-# dev-documentation
-Developer documentation for interacting with the Kronos API
+# Developer Documentation
+
+Developer documentation for interacting with the Wurk API
