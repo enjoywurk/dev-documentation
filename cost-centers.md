@@ -6,7 +6,7 @@ of layers and any number of parent child releationships.
 You can find cost centers by loggin in as an admin and navigating to 
 *Company Settings > Global Setup > Cost Centers*  
 
-Then edit a cost center to view its tree: 
+Then edit a cost center to view its tree:   
 ![Cost Center Tree](images/cost-center-tree.png)  
 
 ## APIs
